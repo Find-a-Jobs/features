@@ -1,7 +1,7 @@
 #language: pt-br
 @Login
 Funcionalidade: Realizar login como empresa a fim de entrar no sistema
-
+    
     Cenario: Login realizado com sucesso
         Dado selecionado a opção "Entrar como empresa" na tela de login
         Quando a empresa digitar suas credenciais 
